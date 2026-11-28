@@ -88,7 +88,7 @@ tests/test_urban_routes.py::TestUrbanRoutes::test_order_ice_cream PASSED
 tests/test_urban_routes.py::TestUrbanRoutes::test_taxi_modal_appears PASSED
 tests/test_urban_routes.py::TestUrbanRoutes::test_driver_info_appears PASSED
 
-========================== 9 passed in 48.12s ==========================
+========================== 9 passed in 85.93s ==========================
 ```
 
 ![Ejecución exitosa en Pytest](assets/pytest_execution.png)
